@@ -13,12 +13,11 @@ I'm [Anton Skowronski], a passionate PHP developer with a strong focus on e-comm
 
 ### Opencart Extension: Custom Checkout
 
-Developed a custom checkout extension for Opencart that streamlines the purchase process, improves cart management, and enhances user conversion. Implemented with [Technology Stack].
+Developed a custom checkout extension for Opencart that streamlines the purchase process, improves cart management, and enhances user conversion.
 
 ### Laravel E-commerce Dashboard
 
-Contributed to a Laravel-based admin dashboard for e-commerce platforms, providing store owners with real-time insights into sales, inventory, and customer behavior. Leveraged [Technology Stack] for seamless integration.
-
+Contributed to a Laravel-based admin dashboard for e-commerce platforms, providing store owners with real-time insights into sales, inventory, and customer behavior.
 ## Let's Connect!
 
 If you're interested in e-commerce, Opencart, Laravel, or just want to chat about the world of PHP development, feel free to get in touch. I'm always excited to connect with fellow developers and share experiences.

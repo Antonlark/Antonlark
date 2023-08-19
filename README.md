@@ -1,13 +1,14 @@
 # Hello, friends! 👋
 
-I'm Anton Skowronski, a passionate PHP developer with a strong focus on e-commerce solutions. My journey in the world of code has led me to specialize in crafting robust online shopping experiences using technologies like Opencart and Laravel.
+I'm Anton Skowronski, a passionate PHP developer with a strong focus on crafting seamless e-commerce solutions. I specialize in utilizing technologies like Opencart and Laravel to create robust online shopping experiences. Beyond that, I'm well-versed in the world of DevOps, with a knack for Linux, server deployment, and optimizing web environments.
 
 ## A Little About Me
 
 - 🛒 E-commerce Expertise: Proficient in creating seamless e-commerce platforms using technologies like Opencart and Laravel.
-- 🚀 Open Source Enthusiast: Advocate for open source solutions that drive innovation and collaboration.
 - 💼 Professional Experience: Worked on various e-commerce projects, enhancing user experiences and optimizing backend processes.
-- 🌐 Tech Stack: PHP, Opencart, Laravel, MySQL, JavaScript, HTML/CSS.
+- 🚀 DevOps Enthusiast: Skilled in setting up and managing servers, optimizing web environments, and streamlining deployment pipelines.
+- 🐧 Linux Enthusiast: Proficient in working with Linux-based systems, ensuring secure and optimized server environments.
+- 🌐 Tech Stack: PHP, Laravel, MySQL, PostgreSQL, JavaScript, HTML/CSS, Opencart, Linux, DevOps tools.
 
 ## My Projects
 

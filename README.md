@@ -22,9 +22,9 @@ Contributed to a Laravel-based admin dashboard for e-commerce platforms, providi
 
 If you're interested in e-commerce, Opencart, Laravel, or just want to chat about the world of PHP development, feel free to get in touch. I'm always excited to connect with fellow developers and share experiences.
 
-[Email](mailto:info@webhome.kz) 
 [Telegram](https://t.me/an_skw)
-
+/
+[Email](mailto:info@webhome.kz)
 <!---
 Antonlark/Antonlark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

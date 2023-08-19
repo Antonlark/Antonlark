@@ -1,6 +1,6 @@
 # Hello, friends! 👋
 
-I'm [Anton Skowronski], a passionate PHP developer with a strong focus on e-commerce solutions. My journey in the world of code has led me to specialize in crafting robust online shopping experiences using technologies like Opencart and Laravel.
+I'm Anton Skowronski, a passionate PHP developer with a strong focus on e-commerce solutions. My journey in the world of code has led me to specialize in crafting robust online shopping experiences using technologies like Opencart and Laravel.
 
 ## A Little About Me
 
